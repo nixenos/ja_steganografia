@@ -1,0 +1,5 @@
+/home/nixen/Projects/JA/ja_steganografia/build-projekt-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/nixen/Projects/JA/ja_steganografia/build-projekt-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/nixen/Projects/JA/ja_steganografia/build-projekt-Desktop-Debug/CMakeFiles/projekt.dir
+/home/nixen/Projects/JA/ja_steganografia/build-projekt-Desktop-Debug/CMakeFiles/projekt_autogen_timestamp_deps.dir
+/home/nixen/Projects/JA/ja_steganografia/build-projekt-Desktop-Debug/CMakeFiles/projekt_autogen.dir
