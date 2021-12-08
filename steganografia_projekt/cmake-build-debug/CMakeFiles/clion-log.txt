@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -G Ninja /home/nixen/Projects/JA/ja_steganografia/steganografia_projekt
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nixen/Projects/JA/ja_steganografia/steganografia_projekt/cmake-build-debug

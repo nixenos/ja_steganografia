@@ -1,0 +1,8 @@
+# ninja log v5
+0	25	1638810277650460598	steganografia_projekt_autogen/mocs_compilation.cpp	c51ca5247e393188
+25	36	1638810277667126489	CMakeFiles/steganografia_projekt.dir/steganografia_projekt_autogen/mocs_compilation.cpp.o	e61c024a2daa3300
+25	1580	1638810279210388109	CMakeFiles/steganografia_projekt.dir/main.cpp.o	40bf31e1f7756139
+0	25	1638810277650460598	steganografia_projekt_autogen/timestamp	c51ca5247e393188
+0	25	1638810277650460598	/home/nixen/Projects/JA/ja_steganografia/steganografia_projekt/cmake-build-debug/steganografia_projekt_autogen/timestamp	c51ca5247e393188
+1592	1896	1638810279523706917	steganografia_projekt	b41379bd45af1e4
+0	25	1638810277650460598	/home/nixen/Projects/JA/ja_steganografia/steganografia_projekt/cmake-build-debug/steganografia_projekt_autogen/mocs_compilation.cpp	c51ca5247e393188
