@@ -30,7 +30,7 @@
     <property name="geometry">
      <rect>
       <x>80</x>
-      <y>220</y>
+      <y>240</y>
       <width>141</width>
       <height>31</height>
      </rect>
@@ -45,11 +45,14 @@
       <x>20</x>
       <y>180</y>
       <width>271</width>
-      <height>23</height>
+      <height>51</height>
      </rect>
     </property>
     <property name="text">
      <string>Photo location: </string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
     </property>
     <property name="wordWrap">
      <bool>true</bool>
@@ -61,11 +64,14 @@
       <x>760</x>
       <y>180</y>
       <width>231</width>
-      <height>23</height>
+      <height>51</height>
      </rect>
     </property>
     <property name="text">
      <string>New file name: </string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
     </property>
     <property name="wordWrap">
      <bool>true</bool>
@@ -77,11 +83,14 @@
       <x>410</x>
       <y>180</y>
       <width>211</width>
-      <height>23</height>
+      <height>51</height>
      </rect>
     </property>
     <property name="text">
      <string>Data file name:</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
     </property>
     <property name="wordWrap">
      <bool>true</bool>
@@ -94,7 +103,7 @@
     <property name="geometry">
      <rect>
       <x>410</x>
-      <y>220</y>
+      <y>240</y>
       <width>141</width>
       <height>31</height>
      </rect>
@@ -107,7 +116,7 @@
     <property name="geometry">
      <rect>
       <x>760</x>
-      <y>220</y>
+      <y>300</y>
       <width>141</width>
       <height>31</height>
      </rect>
@@ -168,7 +177,7 @@
      <string>Threads: 1</string>
     </property>
    </widget>
-   <widget class="QCheckBox" name="checkBox">
+   <widget class="QCheckBox" name="cAPICheckBox">
     <property name="geometry">
      <rect>
       <x>410</x>
@@ -181,7 +190,7 @@
      <string>Use C++ API</string>
     </property>
    </widget>
-   <widget class="QCheckBox" name="checkBox_2">
+   <widget class="QCheckBox" name="ASMAPICheckBox">
     <property name="geometry">
      <rect>
       <x>410</x>
@@ -220,6 +229,19 @@
      <string>Time with ASM: </string>
     </property>
    </widget>
+   <widget class="QPushButton" name="calculateResultButton">
+    <property name="geometry">
+     <rect>
+      <x>760</x>
+      <y>240</y>
+      <width>141</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Calculate result</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -227,7 +249,7 @@
      <x>0</x>
      <y>0</y>
      <width>1017</width>
-     <height>28</height>
+     <height>19</height>
     </rect>
    </property>
   </widget>

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/projekt.dir/projekt_autogen/mocs_compilation.cpp.o CMakeFiles/projekt.dir/main.cpp.o CMakeFiles/projekt.dir/mainwindow.cpp.o CMakeFiles/projekt.dir/src/logic.cpp.o -o projekt  /usr/lib/libQt6Widgets.so.6.2.2 /usr/lib/libQt6Gui.so.6.2.2 /usr/lib/libQt6Core.so.6.2.2 -pthread /usr/lib/libGLX.so /usr/lib/libOpenGL.so 

@@ -11,7 +11,6 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/nixen/Projects/JA/ja_steganografia/projekt/main.cpp" "/home/nixen/Projects/JA/ja_steganografia/projekt/cmake-build-debug/CMakeFiles/projekt.dir/main.cpp.o"
   "/home/nixen/Projects/JA/ja_steganografia/projekt/mainwindow.cpp" "/home/nixen/Projects/JA/ja_steganografia/projekt/cmake-build-debug/CMakeFiles/projekt.dir/mainwindow.cpp.o"
   "/home/nixen/Projects/JA/ja_steganografia/projekt/cmake-build-debug/projekt_autogen/mocs_compilation.cpp" "/home/nixen/Projects/JA/ja_steganografia/projekt/cmake-build-debug/CMakeFiles/projekt.dir/projekt_autogen/mocs_compilation.cpp.o"
-  "/home/nixen/Projects/JA/ja_steganografia/projekt/src/imageFile.cpp" "/home/nixen/Projects/JA/ja_steganografia/projekt/cmake-build-debug/CMakeFiles/projekt.dir/src/imageFile.cpp.o"
   "/home/nixen/Projects/JA/ja_steganografia/projekt/src/logic.cpp" "/home/nixen/Projects/JA/ja_steganografia/projekt/cmake-build-debug/CMakeFiles/projekt.dir/src/logic.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -5,7 +5,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/projekt.dir/main.cpp.o"
   "CMakeFiles/projekt.dir/mainwindow.cpp.o"
   "CMakeFiles/projekt.dir/projekt_autogen/mocs_compilation.cpp.o"
-  "CMakeFiles/projekt.dir/src/imageFile.cpp.o"
   "CMakeFiles/projekt.dir/src/logic.cpp.o"
   "projekt"
   "projekt.pdb"
